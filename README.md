@@ -9,3 +9,5 @@ This repository contains a series of mini tutorial on specific features of
 - [Venus Fugerit Doc sample showing ability to clean source XML](https://github.com/fugerit79/venus-sample-clean-source)
 - [Venus Fugerit Doc sample using a YAML Source document](https://github.com/fugerit79/venus-sample-yaml-source)
 - [Venus Fugerit Doc sample showing how to use accessibility features of PDF FOP type handler](https://github.com/fugerit79/venus-sample-pdf-fop-accessibility)
+- [Venus Fugerit Doc sample showing how to add a Custom Function](https://github.com/fugerit79/venus-sample-custom-function)
+  

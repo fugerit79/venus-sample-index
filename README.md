@@ -11,4 +11,4 @@ This repository contains a series of mini tutorial on specific features of
 - [Venus Fugerit Doc sample showing how to use accessibility features of PDF FOP type handler](https://github.com/fugerit79/venus-sample-pdf-fop-accessibility)
 - [Venus Fugerit Doc sample showing how to add a Custom Function](https://github.com/fugerit79/venus-sample-custom-function)
 - [Venus Fugerit Doc sample of internationalization (i18n)](https://github.com/fugerit79/venus-sample-i18n)
-  
+- [Venus Fugerit Doc Sample for a PDF with FOP Handler and added Watermark](https://github.com/fugerit79/venus-sample-pdf-fop-with-watermark)
